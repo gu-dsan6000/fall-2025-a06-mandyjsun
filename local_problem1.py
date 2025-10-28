@@ -2,8 +2,7 @@
 Problem 1: Log Level Distribution (Local Version)
 
 This script runs locally on the EC2 instance to test Spark logic. It reads log files
-from data/sample/, extracts log levels (INFO, WARN, ERROR, DEBUG),
-and writes summary outputs to data/output/.
+from data/sample/, extracts log levels (INFO, WARN, ERROR, DEBUG), and writes summary outputs to data/output/.
 """
 
 import os

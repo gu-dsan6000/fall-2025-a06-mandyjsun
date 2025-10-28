@@ -5,8 +5,6 @@ This script runs on the Spark cluster using the full dataset stored in S3. It co
 reads all application container logs from the S3 bucket, extracts log levels (INFO, WARN, ERROR, DEBUG),
 and writes summary outputs to the data/output/ directory on the master node.
 
-Example run:
-    uv run python problem1.py spark://$MASTER_PRIVATE_IP:7077 --net-id YOUR_NET_ID
 """
 
 import os
