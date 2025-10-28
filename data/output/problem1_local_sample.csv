@@ -1,0 +1,11 @@
+log_level,log_entry
+ERROR,17/03/29 10:08:02 ERROR executor.CoarseGrainedExecutorBackend: Driver 10.10.34.11:48782 disassociated! Shutting down.
+ERROR,17/03/29 10:03:43 ERROR executor.CoarseGrainedExecutorBackend: Driver 10.10.34.11:48782 disassociated! Shutting down.
+ERROR,17/03/29 09:56:05 ERROR executor.CoarseGrainedExecutorBackend: Driver 10.10.34.11:48782 disassociated! Shutting down.
+ERROR,17/03/29 10:05:18 ERROR executor.CoarseGrainedExecutorBackend: Driver 10.10.34.11:48782 disassociated! Shutting down.
+ERROR,17/03/29 10:09:59 ERROR executor.CoarseGrainedExecutorBackend: Driver 10.10.34.11:48782 disassociated! Shutting down.
+ERROR,17/03/29 10:11:36 ERROR executor.CoarseGrainedExecutorBackend: Driver 10.10.34.11:48782 disassociated! Shutting down.
+ERROR,17/03/29 10:05:31 ERROR executor.CoarseGrainedExecutorBackend: Driver 10.10.34.11:48782 disassociated! Shutting down.
+ERROR,17/03/29 10:04:27 ERROR executor.CoarseGrainedExecutorBackend: Driver 10.10.34.11:48782 disassociated! Shutting down.
+ERROR,17/03/29 10:08:07 ERROR executor.CoarseGrainedExecutorBackend: Driver 10.10.34.11:48782 disassociated! Shutting down.
+ERROR,17/03/29 10:03:12 ERROR executor.CoarseGrainedExecutorBackend: Driver 10.10.34.11:48782 disassociated! Shutting down.
